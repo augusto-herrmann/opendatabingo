@@ -14,7 +14,7 @@ var data1 = { excuse: [
 	answers: [
 		{answer: "Provavelmente, não é tão grande quanto pensa (a menos que você esteja no CERN);"},
 		{answer: "Os mantenedores dos dados provavelmente têm orgulho do tamanho da base de dados, então não ofenda tentando dizer que não é tão grande assim;"},
-		{answer: "Considere 'quebrar' por ano ou outro recorte e disponibilizar bases separadas."},
+		{answer: "Considere subdividir por ano ou outro recorte e disponibilizar bases separadas."},
 		{answer: "Pergunte se eles se importam que você faça alguns experimentos (e gentilmente mostre que é algo prático e possível de se fazer)."}
 		
 	]
