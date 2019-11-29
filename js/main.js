@@ -99,9 +99,9 @@ var data2 = { excuse: [
 },
 {
 	id: "12",
-	title: "Non è una priorità e siamo molto impegnati",
+	title: "Não é uma prioridade e estamos muito ocupados",
 	answers: [
-		{answer: "In cosa sei impegnato? In diversi casi potremmo essere in grado di aiutarti: ad esempio se ci aiutassi ad ottenere i dati che hai già, potremmo essere noi a creare la mappa/report/strumento di cui hai bisogno."}
+		{answer: "Em que está ocupado? Em muitos casos podemos estar em condições de ajudar: por exemplo, se a gente ajudasse a obter os dados que já existem, poderíamos criar o mapa/relatório/instrumento que você precisa."}
 	]
 },
 ]};
