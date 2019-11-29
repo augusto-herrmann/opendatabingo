@@ -84,8 +84,8 @@ var data2 = { excuse: [
 {	id: "10",
 	title: "É muito complicado", 
 	answers: [
-		{answer: "Questa è una questione simile a “è troppo grande”."},
-		{answer: "Non mostrarti compiaciuto se viene fuori che non era così complicato, potrebbe compromettere le tue relazioni professionali con il fornitore dei dati"}
+		{answer: "Esta é uma questão similar a “é grande demais”."},
+		{answer: "Não se aparentar satisfeito se vier à tona que não era tão complicado poderia comprometer as suas relações profissionais com os fornecedores dos dados"}
 	]
 },
 {	id: "11",
