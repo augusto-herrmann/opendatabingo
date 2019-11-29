@@ -89,12 +89,12 @@ var data2 = { excuse: [
 	]
 },
 {	id: "11",
-	title: "I nostri dati sono brutti in modo imbarazzante",
+	title: "Os nossos dados estão sujos de modo embaraçoso",
 	answers: [
-		{answer: "Molti occhi ti aiuteranno a migliorare i tuoi dati (ad esempio evidenziando inesattezze)."},
-		{answer: "Le persone accetteranno i tuoi dati per quello che sono."},
-		{answer: "Offriti di aiutare il titolare dei dati a pulirli o mantenerli meglio. Fornendo un sistema che permetta ai titolari di gestire meglio i loro dati, potresti fare loro un favore."},
-		{answer: "Se puoi ridurre i rischi, pubblicare dati aperti è un modo molto valido per motivare i fornitori di dati a pulirli. Ma i dati devono essere visibili, quindi ci sarà bisogno di una pagina web per mostrarli, così anche personale non tecnico potrà vederli (anche quelli brutti). Questa pagina è il luogo ideale per ribadire la procedura per fare correzioni. Questo significherà pubblicare inizialmente dati imperfetti, ma sarà molto efficace. Puoi mandare mail per anni alla gente chiedendo di migliorare i loro dati e non lo faranno. Nell’istante in cui scopriranno che questi sono visibili al pubblico, sfonderanno la tua porta chiedendoti di poterli correggere."}
+		{answer: "Muitos olhos o ajudaram a melhorar os seus dados (por exemplo apontando imprecisões)."},
+		{answer: "As pessoas aceitaram os seus dados pelo que eles são."},
+		{answer: "Ofereça ajuda ao titular dos dados para limpá-los ou mentê-los melhor. Fornecendo um sistema que permita aos titulares gerirem Fornendo un sistema que permita aos titulares gerirem melhor os seus dados, poderia lhes fazer um favor."},
+		{answer: "Se puder reduzir os riscos, publicar dados abertos é um modo muito válido para motivar os fornecedores dos dados a limpá-los. Mas os dados devem estar visíveis, assim haverá necessidade de uma página web para mostrá-los, assim também o pessoal não técnico poderá vê-los (incluindo as suas inconsistências). Essa página é o local ideal para reafirmar o processo para fazer correções. Isto significará publicar inicialmente dados imperfeitos, mas será muito eficaz. Você pode mandar um e-mail anual às pessoas pedindo que melhorem os seus dados e elas não o farão. No momento em que descobrirem que eles estão visíveis ao público, baterão à sua porta pedindo para poder corrigi-los.."}
 	]
 },
 {
