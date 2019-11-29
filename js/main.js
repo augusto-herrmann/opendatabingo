@@ -73,12 +73,12 @@ var data2 = { excuse: [
 	]
 },
 {	id: "9",
-	title: "Non ho problemi a rendere i dati aperti, ma sono preoccupato che qualcun altro possa obiettare qualcosa", 
+	title: "Não tenho problemas em abrir os dados, mas estou preocupado que alguém possa se opor a algo", 
 	answers: [
-		{answer: "Questa è più una manovra diversiva che un vero problema."},
-		{answer: "Implica che la persona ha paura di essere accusata per aver fatto un errore."},
-		{answer: "Cerca tra i suoi superiori qualcuno in grado di rassicurarli che non finiranno nei guai."},
-		{answer: "Richiedi un sottoinsieme di dati meno controverso."}
+		{answer: "Esta é mais uma manobra de distração que um verdadeiro problema."},
+		{answer: "Implica que a pessoa tem medo de ser acusada por ter cometido um erro."},
+		{answer: "Procure entre os seus superiores alguém de nível suficiente para se assegurar de que não traga problemas."},
+		{answer: "Procure um subconjunto dos dados menos controverso."}
 	]
 },
 {	id: "10",
