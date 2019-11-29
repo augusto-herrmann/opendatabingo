@@ -55,12 +55,12 @@ var data1 = { excuse: [
 ]};
 var data2 = { excuse: [
 {	id: "7",
-	title: "Siamo preoccupati per la tutela dei dati personali e sensibili", 
+	title: "Estamos preocupados com a tutela dos dados pessoais e sensíveis", 
 	answers: [
-		{answer: "Il Codice della Privacy (D. Lgs. 196/2003) prevede la tutela dei diritti di riservatezza delle sole persone fisiche, non di quelle giuridiche (aziende, associazioni, fondazioni): pertanto, se i dati (meglio: i dataset) non contengono dati personali, sensibili o giudiziari relativi a persone fisiche, il Codice privacy non costituisce un ostacolo alla pubblicazione. In ogni caso, l’articolo 4 del D. Lgs. 33/2013 disciplina i rapporti tra pubblicazione dei dati e privacy, introducendo dei criteri che sono da ritenersi generali (es. anonimizzazione)  e costituire una guida per non incorrere in violazioni. "},
-		{answer: "Se siete preoccupati per la privacy, potete comunque pubblicare ciò che è già stato pubblicato in modalità analogica (non-machine-readable, es. sull’albo pretorio del Comune)."},
-		{answer: "Eliminate o anonimizzate le stringhe che contengono i dati personali."},
-		{answer: "Chiedete ai titolari dei dati un’esplicita autorizzazione a pubblicare i dati che li riguardano, sempre nei limiti di quanto imposto dal Codice della privacy."}
+		{answer: "A Lei Geral de Proteção de Dados (Lei n.º 13.709/2018) prevê a tutela do direito à privacidade somente das pessoas físicas, não das pessoas jurídicas (empresas, associações, fundações): portanto, se os dados (melhor: conjunto de dados) não contêm dados pessoais, sensíveis ou judiciários relativos a pessoas físicas, a LGPD não constitui um obstáculo à publicação. Em todo caso, o artigo 31 da Lei de Acesso à Informação (Lei n.º 12.527/2011) e a LGPD disciplinam o acesso à informação e a privacidade, introduzindo critérios que são de consideração geral (ex.: anonimização, definida no artigo 12 da LGPD) e constituir um guia para não incorrer em violações. "},
+		{answer: "Se você está preocupado com a privacidade, pode, em todo caso, publicar aquilo que já estiver publicado de forma analógica (não legível por máquina, ex.: no diário oficial)."},
+		{answer: "Elimine ou anonimize as strings que contenham dados pessoais."},
+		{answer: "Peça aos titulares dos dados uma autorização explícita para puiblicar os dados que lhe dizem respeito, sempre dentro dos limites que forem impostos pela LGPD."}
 	]
 },
 {	id: "8",
