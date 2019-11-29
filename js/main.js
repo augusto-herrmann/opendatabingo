@@ -23,7 +23,7 @@ var data1 = { excuse: [
 	title: "As pessoas vão começar a ligar para perguntar coisas",
 	answers: [
 		{answer: "Geralmente, essa é uma objeção de pessoas que se sentem sobrecarregadas e acham que isso não faz parte de suas atribuições. Levar o assunto a um nível mais alto de gestão pode ajudar a identificar se isso vai ser útil ou, de fato, perda de tempo."},
-		{answer: "Em minha experiência na Prefeitura de São Paulo, o que acontece é justamente o contrário: as pessoas deixam de ter trabalho extraindo a mesma base de dados para setores diferentes mais de uma vez, ou responder individualmente a pedidos de informação. Pessoas resistentes a princípio já vieram agradecer pela abertura de dados depois por esse motivo"}
+		{answer: "Frequentemente acontece justo o contrário: as pessoas deixam de ter trabalho extraindo a mesma base de dados para setores diferentes mais de uma vez, ou responder individualmente a pedidos de informação."}
 	]
 },
 {	id: "4",
