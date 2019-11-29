@@ -5,7 +5,7 @@ This project renders with modals the Brazilian Portuguese translation and answer
 
 It use Bootstrap 2.3.2 and Handlebars. If you want to create your own bingo, fork the project and edit `/js/main.js`.
 
-For more info see https://campagnucci.github.io/opendatabingo/about.html (Brazilian Portuguese) and http://gbonanome.github.io/opendatabingo/about.html (Italian).
+For more info see http://bingo.dadosabertos.social/about.html (Brazilian Portuguese) and http://gbonanome.github.io/opendatabingo/about.html (Italian).
 
 License: CC-BY-3.0
 
