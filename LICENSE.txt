@@ -1,0 +1,13 @@
+Para commits posteriores a e0d5d559b1c4d4d3be5880d8fcd834fa3cfcdd03:
+
+Este trabalho está licenciado sob a Licença Atribuição 4.0 Internacional
+Creative Commons. Para visualizar uma cópia desta licença, visite
+https://creativecommons.org/licenses/by/4.0/ ou mande uma carta para Creative
+Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+Para o commit e0d5d559b1c4d4d3be5880d8fcd834fa3cfcdd03 e anteriores:
+
+Este trabalho está licenciado sob a Licença Atribuição 3.0 Não Adaptada
+Creative Commons. Para visualizar uma cópia desta licença, visite
+https://creativecommons.org/licenses/by/3.0/ ou mande uma carta para Creative
+Commons, PO Box 1866, Mountain View, CA 94042, USA.
