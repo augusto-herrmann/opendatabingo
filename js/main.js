@@ -108,9 +108,9 @@ var data2 = { excuse: [
 var data3 = { excuse: [
 {
 	id: "13",
-	title: "Non sono titolare dei dati, perciò non posso darti il permesso",
+	title: "Não sou titular dos dados, portanto não posso te dar a permissão",
 	answers: [
-		{answer: "Rispondere a questa obiezione talvolta può essere tanto semplice quanto scoprire chi realmente possiede i dati."},
+		{answer: "Responder a esta objeção às vezes pode ser tão simples quanto descobrir quem realmente possui os dados."},
 		{answer: "Talvolta nessuno sa chi sia titolare dei dati. Ciò sembra accadere spesso quando qualcuno ha occupato una posizione lavorativa di recente e non è consapevole di essere diventato il titolare dei dati."},
 		{answer: "Risalire i livelli di chi ha la responsabilità amministrativa può aiutare. Se puoi trovare qualcuno che evidentemente ha la responsabilità dell’area a cui il dataset appartiene, potrà indicarti il titolare dei dati o darti direttamente il permesso ad usarli."},
 		{answer: "Mettiti in contatto con qualcuno che sia a un livello amministrativo molto alto che possa incaricare qualcuno a prendere decisioni riguardo a dati apparentemente “orfani”."},
