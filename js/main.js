@@ -111,7 +111,7 @@ var data3 = { excuse: [
 	title: "Não sou titular dos dados, portanto não posso te dar a permissão",
 	answers: [
 		{answer: "Responder a esta objeção às vezes pode ser tão simples quanto descobrir quem realmente possui os dados."},
-		{answer: "Talvolta nessuno sa chi sia titolare dei dati. Ciò sembra accadere spesso quando qualcuno ha occupato una posizione lavorativa di recente e non è consapevole di essere diventato il titolare dei dati."},
+		{answer: "Às vezes ninguém sabe quem é o titular dos dados. Isso parece acontecer frequentemente quando alguém ocupou um posto de trabalho recentemente e não está consciente de que se tornou o titular dos dados."},
 		{answer: "Risalire i livelli di chi ha la responsabilità amministrativa può aiutare. Se puoi trovare qualcuno che evidentemente ha la responsabilità dell’area a cui il dataset appartiene, potrà indicarti il titolare dei dati o darti direttamente il permesso ad usarli."},
 		{answer: "Mettiti in contatto con qualcuno che sia a un livello amministrativo molto alto che possa incaricare qualcuno a prendere decisioni riguardo a dati apparentemente “orfani”."},
 		{answer: "Stimola la stessa PA a ricercare i propri dati e capire di quali essa sia titolare, tramite l’apposita istanza di accesso civico, prevista dall’articolo 5 del Decreto Legislativo 14 marzo 2013, n. 33."}
