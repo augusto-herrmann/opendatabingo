@@ -112,9 +112,9 @@ var data3 = { excuse: [
 	answers: [
 		{answer: "Responder a esta objeção às vezes pode ser tão simples quanto descobrir quem realmente possui os dados."},
 		{answer: "Às vezes ninguém sabe quem é o titular dos dados. Isso parece acontecer frequentemente quando alguém ocupou um posto de trabalho recentemente e não está consciente de que se tornou o titular dos dados."},
-		{answer: "Risalire i livelli di chi ha la responsabilità amministrativa può aiutare. Se puoi trovare qualcuno che evidentemente ha la responsabilità dell’area a cui il dataset appartiene, potrà indicarti il titolare dei dati o darti direttamente il permesso ad usarli."},
-		{answer: "Mettiti in contatto con qualcuno che sia a un livello amministrativo molto alto che possa incaricare qualcuno a prendere decisioni riguardo a dati apparentemente “orfani”."},
-		{answer: "Stimola la stessa PA a ricercare i propri dati e capire di quali essa sia titolare, tramite l’apposita istanza di accesso civico, prevista dall’articolo 5 del Decreto Legislativo 14 marzo 2013, n. 33."}
+		{answer: "Subir os níveis de quem tem a responsabilidade administrativa pode ajudar. Se puder encontrar alguém que evidentemente tenha a responsabilidade pela área à qual o dataset pertence, poderá te indicar o titular dos dados ou te dar diretamente a permissão para usá-los."},
+		{answer: "Coloque-se em contato com alguém que esteja em um nível hierárquico muito alto que possa indicar alguém para tomar decisões sobre os dados aparentemente “órfãos”."},
+		{answer: "Estimule a mesma pessoa a pesquisar os próprios dados e saber de quais ela é titular, por meio de um pedido de acesso à informação previsto na Lei n.º 12.527, de 18 de novembro de 2011, artigo 10."}
 	]
 },
 {
