@@ -119,14 +119,14 @@ var data3 = { excuse: [
 },
 {
 	id: "14",
-	title: "Non abbiamo quei dati",
+	title: "Não temos esses dados",
 	answers: [
-		{answer: "Talvolta ce li hanno, ma non se ne rendono conto (“Non sono dati, è solo un foglio di calcolo...”)."},
-		{answer: "Bene, quali dati avete per noi, invece?"},
-		{answer: "Abbiamo un obbligo o una richiesta di conservare quei  dati e possiamo aiutarvi ad iniziare il lavoro."},
-		{answer: "Ma sono sul vostro sito..."},
-		{answer: "... possono scoprire di avere un database che li gestisce"},
-		{answer: "... oppure i dati sono gestiti manualmente, nel qual caso potresti ottenerli tramite scraping, e magari persino reimplementare il loro sito web su un modello basato sui dati e rendere più semplice il loro lavoro."}
+		{answer: "Às vezes os temos, mas não nos damos conta disso (“Não são dados, é só uma planilha...”)."},
+		{answer: "Bem, que dados vocês têm para nós, em vez disso?"},
+		{answer: "Temos uma obrigação ou uma solicitação para guardar esses dados e podemos lhes ajudar a começar."},
+		{answer: "Mas estão no site de vocês..."},
+		{answer: "... podem descobrir que têm uma base de dados que gerenciam"},
+		{answer: "... ou os dados são gerenciados manualmente, caso em que poderia obtê-los por scraping, e até mesmo reimplementar o seu site sob um modelo baseado nos dados e tornar mais simples o seu trabalho."}
 	]
 },
 {
