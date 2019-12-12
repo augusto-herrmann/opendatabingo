@@ -131,13 +131,13 @@ var data3 = { excuse: [
 },
 {
 	id: "15",
-	title: "I dati sono già pubblicati attraverso l’organizzazione esterna X",
+	title: "Os dados já estão publicados pela organização externa X",
 	answers: [
-		{answer: "Spesso le organizzazioni esterne non rilasceranno i dati sotto una licenza aperta, limitando la loro utilità all’organizzazione interessata. Pubblicarli noi in modo autonomo comporterà che potremo fare un uso completo dei dati."},
-		{answer: "L’auto-pubblicazione significa che possiamo modellare in modo più accurato gli aspetti di maggiore interesse per noi."},
-		{answer: "Le imprecisioni nei dati pubblicati possono essere corrette internamente, una volta notate, portando a dati più accurati (argomentazione dei “molti occhi vedono più di pochi”)."},
-		{answer: "Possiamo ottenere quei dati dalla fonte esterna e linkarli con gli altri nostri dati? Se non è così, c’è un problema."},
-		{answer: "Possiamo ottenere gli stessi dati che avete fornito all’organizzazione esterna?"}
+		{answer: "Frequentemente as organizações externas não disponibilizaram os dados sob uma licença aberta, limitando a sua utilidade às organizações interessadas. Nós os publicarmos de maneira independente implicará que poderemos fazer um uso completo dos dados."},
+		{answer: "A auto publicação significa que podemos modelar de modo mais acurado os aspectos de maior interesse para nós."},
+		{answer: "As imprecisões nos dados publicados podem ser corrigidas internamente, uma vez percebidas, levando mais acurácia aos dados (argumentação do “muitos olhos enxergam mais que poucos”)."},
+		{answer: "Podemos obter esses dados da fonte externa e ligá-los com outros dados nossos? Se não for assim, há um problema."},
+		{answer: "Podemos obter os mesmos dados que vocês forneceram à organização externa?"}
 	]
 },
 {
