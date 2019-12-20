@@ -145,7 +145,7 @@ var data3 = { excuse: [
 	title: "Não podemos fornecer esse conjunto de dados por causa de uma de suas partes",
 	answers: [
 		{answer: "Temos visto solicitações inteiras serem inicialmente negadas por causa de uma pequena parte que não estava disponível ou era controversa: isto não é mais possível porque pode-se recorrer argumentando o §2º do art. 6º da Lei 12.527/2011 “Quando não for autorizado acesso integral à informação por ser ela parcialmente sigilosa, é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo."},
-		{answer: "In aggiunta al processo formale di richiesta dei dati, tenetevi in contatto con le persone ad ogni stadio. La condizione ideale sarebbe tramite un contatto diretto dato che un messaggio email può non essere efficace per eliminare la confusione. Rassicurateli del fatto che se una parte dei dati è complessa può essere saltata (si può trattare di una situazione abbastanza inusuale)."}
+		{answer: "Além do processo formal de solicitação dos dados, mantenha-se em contato com as pessoas a cada etapa. A condição ideal seria por meio de um contato direto dado que uma mensagem por e-mail pode não ser eficaz para eliminar a confusão. Certifique-se do fato que se uma parte dos dados é complexa pode ser pulada (se pode tratar de uma situação bastante incomum)."}
 	]
 },
 {
