@@ -166,12 +166,12 @@ var data3 = { excuse: [
 },
 {
 	id: "19",
-	title: "Che succede se intendiamo vendere l’accesso a questi dati?",
+	title: "O que acontece se tivermos a intenção de vender o acesso a esses dados?",
 	answers: [
-		{answer: "In alcuni casi si tratta di una valida preoccupazione, se vendere dati fa parte del vostro modello di business."},
-		{answer: "Per usare un’analogia, un take-away cinese fallirebbe molto in fretta se decidesse di dare via il cibo gratis, ma fallirebbe anche se non rendesse il suo menu disponibile gratis. Una via di mezzo sono le sue ricette, che potrebbero costituire un segreto di un certo valore, ma che sono anche di grande interesse per persone con intolleranze alimentari. Se queste persone sapessero tutto di ogni piatto, potrebbero preferire esattamente quel take-away."},
-		{answer: "Aiutali a capire se si tratta di una prospettiva realistica, o solo di una avversità al rischio e, in ogni caso, a verificare se si tratta di dati soggetti al D. Lgs. 36/2006 e quindi gratuti o al massimo soggetti a costo marginale (ossia al mero costo di produzione)."},
-		{answer: "Aiutali a individuare benefici pratici derivanti dall’apertura dei dati. E anche se non ce ne sono, perché dovrebbero esserne infastiditi?"}
+		{answer: "Em alguns casos trata-se de uma preocupação válida, se vender dados faz parte do seu modelo de negócio."},
+		{answer: "Para usar uma analogia, diz um ditado chinês que perderia muito se apressadamente decidisse dar a comida grátis, mas perderia também se não disponibilizasse o seu cardápio grátis. Um caminho do meio são as suas receitas, que poderiam constituir um segredo de certo valor, mas que são também de grande interesse para pessoas com intolerância alimentar. Se essas pessoas soubessem tudo de cada prato, poderiam preferir exatamente esse ditado."},
+		{answer: "Ajude a saber se se trata de uma possibilidade real, ou só de uma aversão ao risco e, em cada caso, a verificar se se tratam de dados sujeitos à Lei 12.527/2011 e portanto gratuitos, sujeitos no máximo ao custo marginal (ou seja, ao mero custo de produção)."},
+		{answer: "Ajude a identificar benefícios práticos derivados da abertura dos dados. E também se não houver, por que deveria se importar?"}
 	]
 },
 {
