@@ -30,7 +30,7 @@ var data1 = { excuse: [
 	title: "Ninguém se interessa por esses dados",
 	answers: [
 		{answer: "Se você está em contato para demandar a abertura desses dados, provavelmente já vê interesse neles. Tente explicar o porquê."},
-		{answer: "Procure ilustrar com um caso em que, integrados a outras bases, esses dados poderiam ser mais interessantes - um exemplo que já usei como argumento: a localização exata de cada poste de iluminação pode ser cruzada com os casos de violência contra a mulher, par verificar se há locais mal-iluminados que podem estar correlacionados a esses eventos"},
+		{answer: "Procure ilustrar com um caso em que, integrados a outras bases, esses dados poderiam ser mais interessantes - um exemplo que já usei como argumento: a localização exata de cada poste de iluminação pode ser cruzada com os casos de violência contra a mulher, par verificar se há locais mal iluminados que podem estar correlacionados a esses eventos"},
 		{answer: "Explique que há interesses que sequer podemos prever, e que é melhor que as pessoas decidam por si; no entanto, procure priorizar o que de fato tem alguma demanda identificada"},
 		{answer: "Na Prefeitura de São Paulo, fizemos iniciativas como o Café Hacker e o plano de dados abertos colaborativo do Pátio Digital, na Educação <http://patiodigital.prefeitura.sp.gov.br/project/plano-dados/>, que são boas metodologias para captar e validar o interesse da sociedade pelos dados. No governo federal, além dos dois Encontros Nacionais de Dados Abertos, foi feita uma oficina temática para levantar as necessidades de uso dos dados <http://wiki.dados.gov.br/I-Oficina-tem%c3%a1tica-para-levantamento-de-necessidades-de-uso-de-dados.ashx>."},
 		{answer: "Não raro, os dados são solicitados por meio de pedidos de informação ou serviços de atendimento ao cidadão e os técnicos não ficam sabendo; procure saber se é o caso e apresente os números"},
@@ -60,7 +60,7 @@ var data2 = { excuse: [
 		{answer: "A Lei Geral de Proteção de Dados (Lei n.º 13.709/2018) prevê a tutela do direito à privacidade somente das pessoas físicas, não das pessoas jurídicas (empresas, associações, fundações): portanto, se os dados (melhor: conjunto de dados) não contêm dados pessoais, sensíveis ou judiciários relativos a pessoas físicas, a LGPD não constitui um obstáculo à publicação. Em todo caso, o artigo 31 da Lei de Acesso à Informação (Lei n.º 12.527/2011) e a LGPD disciplinam o acesso à informação e a privacidade, introduzindo critérios que são de consideração geral (ex.: anonimização, definida no artigo 12 da LGPD) e constituir um guia para não incorrer em violações. "},
 		{answer: "Se você está preocupado com a privacidade, pode, em todo caso, publicar aquilo que já estiver publicado de forma analógica (não legível por máquina, ex.: no diário oficial)."},
 		{answer: "Elimine ou anonimize as strings que contenham dados pessoais."},
-		{answer: "Peça aos titulares dos dados uma autorização explícita para puiblicar os dados que lhe dizem respeito, sempre dentro dos limites que forem impostos pela LGPD."}
+		{answer: "Peça aos titulares dos dados uma autorização explícita para publicar os dados que lhe dizem respeito, sempre dentro dos limites que forem impostos pela LGPD."}
 	]
 },
 {	id: "8",
@@ -68,7 +68,7 @@ var data2 = { excuse: [
 	answers: [
 		{answer: "Este é o problema do catálogo da biblioteca, frequentemente os metadados vêm de diversas fontes de aquisição que não permitem a livre republicação. Às vezes não é claro exatamente quais dados vêm de quais fontes, logo o dataset inteiro está corrompido."},
 		{answer: "Há partes do mesmo que temos certeza? Podemos publicar essas partes."},
-		{answer: "Se não somos os titulars, conhecemos os efetivos titulares?"},
+		{answer: "Se não somos os titulares, conhecemos os efetivos titulares?"},
 		{answer: "Há outros dados dos quais temos certeza de que nós somos os titulares?"}
 	]
 },
@@ -93,7 +93,7 @@ var data2 = { excuse: [
 	answers: [
 		{answer: "Muitos olhos o ajudaram a melhorar os seus dados (por exemplo apontando imprecisões)."},
 		{answer: "As pessoas aceitaram os seus dados pelo que eles são."},
-		{answer: "Ofereça ajuda ao titular dos dados para limpá-los ou mentê-los melhor. Fornecendo um sistema que permita aos titulares gerirem Fornendo un sistema que permita aos titulares gerirem melhor os seus dados, poderia lhes fazer um favor."},
+		{answer: "Ofereça ajuda ao titular dos dados para limpá-los ou mentê-los melhor. Fornecendo um sistema que permita aos titulares gerirem Fornecendo um sistema que permita aos titulares gerirem melhor os seus dados, poderia lhes fazer um favor."},
 		{answer: "Se puder reduzir os riscos, publicar dados abertos é um modo muito válido para motivar os fornecedores dos dados a limpá-los. Mas os dados devem estar visíveis, assim haverá necessidade de uma página web para mostrá-los, assim também o pessoal não técnico poderá vê-los (incluindo as suas inconsistências). Essa página é o local ideal para reafirmar o processo para fazer correções. Isto significará publicar inicialmente dados imperfeitos, mas será muito eficaz. Você pode mandar um e-mail anual às pessoas pedindo que melhorem os seus dados e elas não o farão. No momento em que descobrirem que eles estão visíveis ao público, baterão à sua porta pedindo para poder corrigi-los.."}
 	]
 },
@@ -150,18 +150,18 @@ var data3 = { excuse: [
 },
 {
 	id: "17",
-	title: "Che succede se qualcosa va male e la versione aperta dei dati diventa obsoleta?",
+	title: "O que acontece se algo ruim ocorrer e a versão aberta dos dados se tornar obsoleta?",
 	answers: [
-		{answer: "Pianifica il modo in cui si può prevenire che questo avvenga (per esempio, monitorando che gli aggiornamenti temporali non siano troppo radi)."},
-		{answer: "Se appropriato, aggiungi un disclaimer ai dati per avvertire che vengono forniti senza alcuni generi di garanzia."},
-		{answer: "Integrare i dati aperti nei flussi interni dei dati significa che le persone noteranno quando i dati diventano superati, riducendo la passibilità che rimangano tali.i una situazione abbastanza inusuale)."}
+		{answer: "Planeje de modo a prevenir que isto aconteça (por exemplo, monitorando que as atualizações temporais não sejam esparsas demais)."},
+		{answer: "Se apropriado, acrescente um aviso aos dados para advertir que são fornecidos sem qualquer tipo de garantia."},
+		{answer: "Integrar os dados abertos nos fluxos internos dos dados significa que as pessoas notarão quando os dados se tornem desatualizados, reduzindo a possibilidade que permaneçam assim, uma situação bastante incomum)."}
 	]
 },
 {
 	id: "18",
-	title: "Non ne vediamo il beneficio",
+	title: "Não vemos o benefício",
 	answers: [
-		{answer: "Mostra esempi di un lavoro simile che abbia portato un ritorno sull’investimento a chi ha pubblicato i dati. "}
+		{answer: "Mostre exemplos de um trabalho similar que tenha trazido um retorno ao investimento a quem publicou os dados. "}
 	]
 },
 {
