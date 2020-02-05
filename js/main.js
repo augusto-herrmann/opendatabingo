@@ -171,7 +171,8 @@ var data3 = { excuse: [
 		{answer: "Em alguns casos trata-se de uma preocupação válida, se vender dados faz parte do seu modelo de negócio."},
 		{answer: "Para usar uma analogia, diz um ditado chinês que perderia muito se apressadamente decidisse dar a comida grátis, mas perderia também se não disponibilizasse o seu cardápio grátis. Um caminho do meio são as suas receitas, que poderiam constituir um segredo de certo valor, mas que são também de grande interesse para pessoas com intolerância alimentar. Se essas pessoas soubessem tudo de cada prato, poderiam preferir exatamente esse ditado."},
 		{answer: "Ajude a saber se se trata de uma possibilidade real, ou só de uma aversão ao risco e, em cada caso, a verificar se se tratam de dados sujeitos à Lei 12.527/2011 e portanto gratuitos, sujeitos no máximo ao custo marginal (ou seja, ao mero custo de produção)."},
-		{answer: "Ajude a identificar benefícios práticos derivados da abertura dos dados. E também se não houver, por que deveria se importar?"}
+		{answer: "Ajude a identificar benefícios práticos derivados da abertura dos dados. E também se não houver, por que deveria se importar?"},
+		{answer: "Se os custos da infraestrutura e o volume de acesso são tais que inviabilizaria o acesso gratuito totalmente ilimitado, considere a possibilidade de oferecer um acesso gratuito limitado até um certo volume de dados, como fazem as APIs de empresas como Twitter e Google, por exemplo. Nesse caso, os limites devem ser generosos o suficiente para permitir a experimentação, o aprendizado e a criação de análises e aplicações não comerciais sobre os dados."}
 	]
 },
 {
