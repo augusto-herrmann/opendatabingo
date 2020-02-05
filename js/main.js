@@ -150,7 +150,7 @@ var data3 = { excuse: [
 },
 {
 	id: "17",
-	title: "O que acontece se algo ruim ocorrer e a versão aberta dos dados se tornar obsoleta?",
+	title: "O que acontece se algo der errado e a versão aberta dos dados se tornar obsoleta?",
 	answers: [
 		{answer: "Planeje de modo a prevenir que isto aconteça (por exemplo, monitorando que as atualizações temporais não sejam esparsas demais)."},
 		{answer: "Se apropriado, acrescente um aviso aos dados para advertir que são fornecidos sem qualquer tipo de garantia."},
