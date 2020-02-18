@@ -187,12 +187,12 @@ var data3 = { excuse: [
 },
 {
 	id: "21",
-	title: "Vogliamo che le persone vengano direttamente da noi per conoscere il motivo per cui vogliono i dati",
+	title: "Queremos que as pessoas venham diretamente a nós para conhecer o motivo pelo qual eles querem os dados",
 	answers: [
-		{answer: "Questo assomiglia a “le persone potrebbero interpretare male i dati” se l’intenzione è quella di aiutare la gente a soddisfare le loro necessità informative."},
-		{answer: "D’accordo, ma almeno i metadati o qualche subset di dati possono essere resi aperti?"},
-		{answer: "Se è presente l’opzione di aprire i dati, ci sono possibilità che l’informazione sia già disponibile secondo le norme in materia di accesso agli atti di cui alla Legge 241/1990 o di accesso civico di cui al D. Lgs. 33/2013: secondo quest’ultimo decreto, per i dati a pubblicazione obbligatoria, ie richiedenti non sono tenuti a giustificare o spiegare le loro ragioni. Anzi, in virtù del D. Lgs. 33/2013, questa è un’obiezione illegittima, perché il suo articolo 5 prevede che, una volta effettuata l’istanza di accesso civico, la PA è tenuta a pubblicare sul sito i dati ed inviare il relativo link al richiedente. Quindi non possono rifiutarsi con la scusa di imporne la materiale consegna nei loro uffici."},
-		{answer: "Questo può essere un aspetto delicato poiché una volta che apri i tuoi dati non sei più in grado di tracciare ogni utilizzo. Questo può essere un problema per le persone che producono questi dati e non sono in grado di fornire una prova documentata che loro, o il loro team, sta facendo qualcosa di valore, specialmente nel momento in cui gli staff vengono ridotti. Un’opzione è quella di trovare qualcuno in grado di rassicurarli che il loro lavoro è valido e che la loro amministrazione comprenda e accetti che quando i dati sono aperti loro stanno scambiando il controllo con l’utilità."}
+		{answer: "Isso se assemelha a “as pessoas poderão interpretar mal os dados” se a intenção é ajudar as pessoas a satisfazer as suas necessidades de informação."},
+		{answer: "Certo, mas pelo menos os metadados ou qualquer subconjunto dos dados podem ser abertos?"},
+		{answer: "Se há a opção de abrir os dados, há possibilidade que a informação já esteja disponível segundo as normas em matéria de acesso aos dados cuja Lei de Acesso à Informação. Segundo o art. 8º, os dados são de publicação obrigatória em transparência ativa, e o solicitante não tem que justificar ou explicar as suas razões. Assim, em virtude do ___, esta é uma objeção ilegal, porque o seu artigo 10, §3º prevê que “são vedadas quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público”."},
+		{answer: "Isto pode ser um aspecto delicado já que uma vez que você abrir os seus dados não será capaz de rastrear cada utilização. Isto pode ser um problema para as pessoas que produzem esses dados e não são capazes de fornecer uma prova documental que elas, ou a sua equipe, está fazendo alguma coisa de valor, especialmente em um momento em que as equipes vem sendo reduzidas. Uma opção é aquela de encontrar alguém capaz de garantir que os seu trabalho é valido e que a sua administração compreenda e aceite que quando os dados são abertos está se abrindo mão do controle em favor da utilidade."}
 	]
 }
 ]};
