@@ -177,12 +177,12 @@ var data3 = { excuse: [
 },
 {
 	id: "20",
-	title: "Se pubblichiamo questi dati, le persone potrebbero farci causa",
+	title: "Se publicarmos esses dados, as pessoas poderão nos processar",
 	answers: [
-		{answer: "Se la preoccupazione è relativa alla violazione della privacy, è sufficiente adottare i criteri di tutela dei dati personali esposti nei punti precedenti."},
-		{answer: "Se la preoccupazione concerne altre questioni, si fa presente che, allo stato attuale, la legge italiana non prevede nessi di causalità tra dati errati e responsabilità del pubblicante, essendo improbabile una causa di risarcimento danni, comunque evitabile mediante apposito disclaimer sull’affidabilità del dato."},
-		{answer: "Assicuratevi di poter dichiarare quali dati avete fornito per ogni giorno preciso, ad esempio in casi in cui qualcuno affermi di non aver trovato l’ospedale più vicino nei vostri dati e che di conseguenza qualcuno sia morto. E’ molto utile essere in grado di provare e mostrare quali dati si stesse fornendo in una qualunque data e ora."},
-		{answer: "Se i dati sono già disponibili sul vostro sito web o tramite una app, state davvero aumentando il rischio aprendoli?"}
+		{answer: "Se a preocupação é relativa à violação da privacidade, é suficiente adotar os critérios de tutela dos dados pessoais expostos nas questões anteriores."},
+		{answer: "Se a preocupação é sobre outras questões, observe que, no estado atual, a lei italiana não prevê nexo de causalidade entre dados errados e a responsabilidade do publicador, sendo improvável uma causa de ressarcimento de danos, ainda que evitável por meio da colocação do disclaimer sobre a confiabilidade do dado."},
+		{answer: "Assegure-se de poder declarar quais dados você forneceu para cada dia específico, por exemplo em casos em que alguém afirma não ter encontrado nos seus dados o hospital mais próximo e que em consequência disso alguém tenha morrido. É muito útil ser capaz de provar e mostrar quais dados se estava fornecendo em alguma data e hora."},
+		{answer: "Se os dados já estão disponíveis no seu website ou por meio de um app, estaria realmente aumentando o risco ao abri-los?"}
 	]
 },
 {
