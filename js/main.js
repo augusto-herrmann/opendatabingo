@@ -91,9 +91,9 @@ var data2 = { excuse: [
 {	id: "11",
 	title: "Os nossos dados estão sujos de modo embaraçoso",
 	answers: [
-		{answer: "Muitos olhos o ajudaram a melhorar os seus dados (por exemplo apontando imprecisões)."},
+		{answer: "Muitos olhos o ajudam a melhorar os seus dados (por exemplo apontando imprecisões)."},
 		{answer: "As pessoas aceitaram os seus dados pelo que eles são."},
-		{answer: "Ofereça ajuda ao titular dos dados para limpá-los ou mentê-los melhor. Fornecendo um sistema que permita aos titulares gerirem Fornecendo um sistema que permita aos titulares gerirem melhor os seus dados, poderia lhes fazer um favor."},
+		{answer: "Ofereça ajuda ao titular dos dados para limpá-los ou mantê-los melhor. Fornecendo um sistema que permita aos titulares gerirem melhor os seus dados, poderia lhes fazer um favor."},
 		{answer: "Se puder reduzir os riscos, publicar dados abertos é um modo muito válido para motivar os fornecedores dos dados a limpá-los. Mas os dados devem estar visíveis, assim haverá necessidade de uma página web para mostrá-los, assim também o pessoal não técnico poderá vê-los (incluindo as suas inconsistências). Essa página é o local ideal para reafirmar o processo para fazer correções. Isto significará publicar inicialmente dados imperfeitos, mas será muito eficaz. Você pode mandar um e-mail anual às pessoas pedindo que melhorem os seus dados e elas não o farão. No momento em que descobrirem que eles estão visíveis ao público, baterão à sua porta pedindo para poder corrigi-los.."}
 	]
 },
@@ -133,7 +133,7 @@ var data3 = { excuse: [
 	id: "15",
 	title: "Os dados já estão publicados pela organização externa X",
 	answers: [
-		{answer: "Frequentemente as organizações externas não disponibilizaram os dados sob uma licença aberta, limitando a sua utilidade às organizações interessadas. Nós os publicarmos de maneira independente implicará que poderemos fazer um uso completo dos dados."},
+		{answer: "Frequentemente as organizações externas não disponibilizam os dados sob uma licença aberta, limitando a sua utilidade às organizações interessadas. Nós os publicarmos de maneira independente implicará que poderemos fazer um uso completo dos dados."},
 		{answer: "A auto publicação significa que podemos modelar de modo mais acurado os aspectos de maior interesse para nós."},
 		{answer: "As imprecisões nos dados publicados podem ser corrigidas internamente, uma vez percebidas, levando mais acurácia aos dados (argumentação do “muitos olhos enxergam mais que poucos”)."},
 		{answer: "Podemos obter esses dados da fonte externa e ligá-los com outros dados nossos? Se não for assim, há um problema."},
